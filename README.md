@@ -1,5 +1,5 @@
-2 
+3
 ||| 
-[B]Type your message here[/B]
+[B][COLOR lime]Type your message here[/B][/COLOR]
 
 Hey Hey Hey
