@@ -1,5 +1,4 @@
-4
+5
 ||| 
 [B][COLOR lime]Type your message here[/B][/COLOR]
-
-MIST, Text verändern
+Ein weiterer Test
