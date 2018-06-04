@@ -1,4 +1,5 @@
-5
+1
 ||| 
-[B][COLOR lime]Type your message here[/B][/COLOR]
-Ein weiterer Test
+[B][COLOR lime]Hier kommen später die Neugikeiten rein[/B][/COLOR]
+
+komm bald... wird selbständig aktualisiert. 
