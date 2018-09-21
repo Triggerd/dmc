@@ -1,6 +1,8 @@
-2
+3
 ||| 
-[B][COLOR lime]Dimas Media Center Update 2.5 ist da[/B][/COLOR]
+[B][COLOR lime]Dimas Media Center Update 2.5 ist da![/B][/COLOR]
+
+[B][COLOR red]Download:[/B][/COLOR]http://t1p.de/dmc
 
 - IPTV-Programme wurden aktuallisiert 
 - Sport-IPTV wurden aktuallisiert
