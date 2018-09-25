@@ -4,7 +4,7 @@
 
 [B][COLOR lime]Dimas Media Center Update 2.5.1 ist da![/B][/COLOR]
 
-[B][COLOR red]Download:[/B][/COLOR]http://t1p.de/dmc
+[B][COLOR red]Download:[/B][/COLOR] http://t1p.de/dmc
 
 [B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR red]Hoch[/COLOR]
 
