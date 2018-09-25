@@ -1,16 +1,18 @@
 4
 ||| 
 25.09.2018
+
 [B][COLOR lime]Dimas Media Center Update 2.5.1 ist da![/B][/COLOR]
 
 [B][COLOR red]Download:[/B][/COLOR]http://t1p.de/dmc
 
-[B][COLOR green]Notwendigkeit[/COLOR]: hoch
+[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR red]Hoch[/COLOR]
 
 Änderungen:
 - IPTV Stream wurde deutlich verbessert
 - MP3 Streams werden nicht mehr nach 17 sekunden abgebrochen
 
+Dieses Fenster kann mit Dismiss geschlossen werden.
 
 22.09.18 Update 2.5 
 
@@ -23,4 +25,4 @@
   --> Kann unter Einstellungen->Dienste->Cron aktivieren-> Häkchen wegmachen, deaktiviert werden
 
 
-Dieses Fenster kann mit Dismiss geschlossen werden.
+
