@@ -1,13 +1,20 @@
-4
+5
 ||| 
-25.09.2018
+18.01.2019
 
-[B][COLOR lime]Dimas Media Center Update 2.5.1 ist da![/B][/COLOR]
+[B][COLOR lime]Dimas Media Center Update 2.5.4 ist da![/B][/COLOR]
 
 [B][COLOR red]Download:[/B][/COLOR] http://t1p.de/dmc
 
-[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR red]Hoch[/COLOR]
+[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR green]mittel[/COLOR]
+Änderungen:
+- IPTv funktioniert wieder
+- Erotik wurde hinzugefügt (Passwort: 1221)
+- Sport wurde entfernt
+- einige neue Addons hinzugefügt, nicht funktionierende entfernt
 
+
+25.09.2018 Update 2.5.1
 Änderungen:
 - IPTV Stream wurde deutlich verbessert
 - MP3 Streams werden nicht mehr nach 17 sekunden abgebrochen
