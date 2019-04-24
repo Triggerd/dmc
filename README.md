@@ -6,7 +6,7 @@
 
 [B][COLOR red]Download:[/B][/COLOR] http://t1p.de/dmc
 
-[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR green]SEHR HOCH[/COLOR]
+[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR red]SEHR HOCH[/COLOR]
 
 Bitte beachtet die neue Anleitung!!! Dies ist das letzte Update, das durch einen USB-Stick 
 durchgeführt werden muss. Nach dem Update 3.0 werden alle Updates zukünftig online und über 
