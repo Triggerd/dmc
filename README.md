@@ -1,35 +1,26 @@
-5
+6
 ||| 
-18.01.2019
+24.04.2019
 
-[B][COLOR lime]Dimas Media Center Update 2.5.4 ist da![/B][/COLOR]
+[B][COLOR lime]Dimas Media Center Update 3.0 ist da![/B][/COLOR]
 
 [B][COLOR red]Download:[/B][/COLOR] http://t1p.de/dmc
 
-[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR green]mittel[/COLOR]
-Änderungen:
-- IPTv funktioniert wieder
-- Erotik wurde hinzugefügt (Passwort: 1221)
-- Sport wurde entfernt
-- einige neue Addons hinzugefügt, nicht funktionierende entfernt
+[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR green]SEHR HOCH[/COLOR]
 
+Bitte beachtet die neue Anleitung!!! Dies ist das letzte Update, das durch einen USB-Stick 
+durchgeführt werden muss. Nach dem Update 3.0 werden alle Updates zukünftig online und über 
+die Box selbst erfolgen. 
 
-25.09.2018 Update 2.5.1
-Änderungen:
-- IPTV Stream wurde deutlich verbessert
-- MP3 Streams werden nicht mehr nach 17 sekunden abgebrochen
+Wer dieses Update nicht durchführt, der bekommt keine zukünftigen Updates mehr!
 
-Dieses Fenster kann mit Dismiss geschlossen werden.
+Änderungen: 
+- Sport hinzugefügt
+- Ip TV aktuallisiert
+- Menüführung verbessert
+- neues Updasystem hinzugefügt
+- Fehler behoben
 
-22.09.18 Update 2.5 
-
-- IPTV-Programme wurden aktuallisiert 
-- Sport-IPTV wurden aktuallisiert
-- Musik on Demand Programme wurden erweitert
-- Kinderprogramme wurden erweitert
-- Kodi startet nun jeden Tag um 06.00Uhr neu, dadurch 
-  werden Fehler vermieden und neue Updates gestartet.
-  --> Kann unter Einstellungen->Dienste->Cron aktivieren-> Häkchen wegmachen, deaktiviert werden
 
 
 
