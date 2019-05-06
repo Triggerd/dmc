@@ -1,7 +1,7 @@
 10
 ||| 
 06.05.2019 
-[B][COLOR red]Das Update kommt automatisch, bitte "Standard Install" auswählen und am Ende der Installation
+[B][COLOR red]Das Update kommt automatisch, bitte "Normal Install" auswählen und am Ende der Installation
 "Forced Close" auswählen.[/B][/COLOR]
 
 [B][COLOR lime]Dimas Media Center Update 3.1 ist da![/B][/COLOR]
