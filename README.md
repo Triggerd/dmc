@@ -1,25 +1,33 @@
-7
+8
 ||| 
-24.04.2019
+06.05.2019
 
-[B][COLOR lime]Dimas Media Center Update 3.0 ist da![/B][/COLOR]
-
+[B][COLOR lime]Dimas Media Center Update 3.1 ist da![/B][/COLOR]
+Es wird die Version 3.0 benötigt um dieses update zu bekommen.
+Installation ist im darunterkommendem Link beschrieben
 [B][COLOR red]Download:[/B][/COLOR] http://t1p.de/dmc
 
-[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR red]SEHR HOCH[/COLOR]
+[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR yellow]normal[/COLOR]
 
-Bitte beachtet die neue Anleitung!!! Dies ist das letzte Update, das durch einen USB-Stick 
-durchgeführt werden muss. Nach dem Update 3.0 werden alle Updates zukünftig online und über 
-die Box selbst erfolgen. 
-
-Wer dieses Update nicht durchführt, der bekommt keine zukünftigen Updates mehr!
+Das Update kommt automatisch, bitte "Standard Install" auswählen und am Ende der Installation
+"Forced Close" auswählen. 
 
 Änderungen: 
-- Sport hinzugefügt
-- Ip TV aktuallisiert
-- Menüführung verbessert
-- neues Updasystem hinzugefügt
+- Neue IP-TV Liste für DMC RU
+- Es werden mehr Quellen bei der Filme/Seriensuche gefunden
+- Erotikbereich wurde erweitert
 - Fehler behoben
+- Musikvideos werden automatisch abgespielt
+
+während der Installation wird ein Fehler angezeigt, einfach ignorieren, ist so gewollt.
+Ebenfalls bekommst du beim Start fehler angezeigt, diese sind ebenfalls unkritisch und werden
+beim nächsten Update entfernt.
+
+Update erfolgt nach Neustart.
+
+Mit "Dismiss" kann das Fenster geschlossen werden. 
+
+
 
 
 
