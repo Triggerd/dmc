@@ -1,17 +1,17 @@
-11
+12
 ||| 
-03.07.2019 
+17.10.2019 
 
-[B][COLOR lime]Dimas Media Center Update 3.1.1 ist da![/B][/COLOR]
-Es wird die Version 3.0 benötigt, um dieses update zu bekommen.
-Installation ist im darunterkommendem Link beschrieben
-[B][COLOR red]Download:[/B][/COLOR] http://t1p.de/dmc
+[B][COLOR lime]Dimas Media Center Update 3.2 ist da![/B][/COLOR]
 
-[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR red]hoch[/COLOR]
-Änderungen: 
-- Die Suche für Filme und Serien funktioniert wieder
-- Bei Musikvideos wurde das Addon Dimas Music hinzugefügt
-- Bei KinderTV wurde das Addon Dimas Kindermusik hinzugefügt
+[B][COLOR green]Notwendigkeit[/B][/COLOR]: [COLOR red]sehr hoch[/COLOR]
+Änderungen:
+- Manche Addons müssen nachinstalliert werden, spart größe für das Update 
+- Quellen für Filme und Serien wurden erhöht
+- Menüs wurden umstrukturiert
+- nicht funktionierende Addons wurden entfernt
+- Fehlermeldungen wurden entfernt
+- Wiedergabe von Videos wurde optimiert
 
 Mit "Dismiss" kann das Fenster geschlossen werden. 
 
